@@ -1,0 +1,3 @@
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/cmake-build-debug/CMakeFiles/markov.dir
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

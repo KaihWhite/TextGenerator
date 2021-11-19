@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/model.h
+string
+-
+
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/word_model.cpp
+word_model.h
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/word_model.h
+sstream
+-
+iostream
+-
+
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/word_model.h
+model.h
+Z:/Projects/School Work/CSCI262/Markov Chain Text Generator/model.h
+vector
+-
+map
+-
+
